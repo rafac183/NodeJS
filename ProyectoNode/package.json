@@ -1,0 +1,22 @@
+{
+  "name": "proyectonode",
+  "version": "0.0.1",
+  "description": "Proyecto Node Curso",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "build": "node app.js",
+    "dev": "nodemon src/index.js",
+    "console": "echo 'Hola mundo desde json' && npm run dev"
+  },
+  "author": "Rafael Cordero",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "env-var": "^7.5.0"
+  }
+}
