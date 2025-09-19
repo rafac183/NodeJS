@@ -1,0 +1,73 @@
+{
+  "profesor": [
+    {
+      "nombre": "Rafael",
+      "apellido": "Cordero",
+      "materias": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "c#"
+        },
+        {
+          "nombre": "python"
+        }
+      ],
+      "id": "8914"
+    },
+    {
+      "id": "c6af",
+      "nombre": "Alejandra",
+      "apellido": "Dev",
+      "materias": [
+        {
+          "nombre": "biologia"
+        },
+        {
+          "nombre": "quimica"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "123a"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "7046"
+    },
+    {
+      "id": "a6e5",
+      "nombre": "Sergio",
+      "apellido": "Code",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS",
+      "duradion": 7,
+      "dificultad": "intermedia",
+      "id": "69b8"
+    },
+    {
+      "nombre": "c#",
+      "duradion": 8,
+      "dificultad": "intermedia",
+      "id": "f3f0"
+    },
+    {
+      "nombre": "python",
+      "duradion": 7,
+      "dificultad": "alta",
+      "id": "4681"
+    }
+  ]
+}
