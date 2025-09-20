@@ -19,3 +19,5 @@ nom install env-var
 Herramientas para NodeJS
 ![[Pasted image 20250919174701.png]]
 ![[Pasted image 20250919174724.png]]![[Pasted image 20250919174805.png]]![[Pasted image 20250919174832.png]]![[Pasted image 20250919174856.png]]![[Pasted image 20250919174928.png]]![[Pasted image 20250919175043.png]]
+Codigos Https
+![[Pasted image 20250919195153.png]]![[Pasted image 20250919195226.png]]![[Pasted image 20250919195432.png]]
